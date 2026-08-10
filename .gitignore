@@ -1,0 +1,18 @@
+﻿# Compiled Binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# Debug & symbols
+*.pdb
+*.ilk
+*.dSYM/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
+Thumbs.db
